@@ -1,0 +1,41 @@
+# Python kesh fayllari
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual muhit papkasi
+venv/
+env/
+
+# PyCharm IDE fayllari
+.idea/
+
+# VSCode IDE fayllari
+.vscode/
+
+# MacOS fayllari
+.DS_Store
+
+# Jupyter Notebook checkpoint fayllari
+.ipynb_checkpoints/
+
+# Log fayllari
+*.log
+
+# Django migration fayllari
+*.pyc
+*.sqlite3
+
+# Node.js node_modules papkasi
+node_modules/
+
+# JetBrains IDE fayllari
+*.iml
+*.ipr
+*.iws
+
+# Anaconda navicat files
+.nv/
+
+# Any other files you want to ignore
+your_file_or_folder_name
